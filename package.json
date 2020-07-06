@@ -1,0 +1,28 @@
+{
+    "name": "urlshortner",
+    "version": "1.0.0",
+    "description": "Create a url shortner using Node.js Express and MongoDB",
+    "main": "index.js",
+    "scripts": {
+        "start": "nodemon server.js",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/JeremyLleva/URLshortner.git"
+    },
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/JeremyLleva/URLshortner/issues"
+    },
+    "homepage": "https://github.com/JeremyLleva/URLshortner#readme",
+    "dependencies": {
+        "ejs": "^3.1.3",
+        "express": "^4.17.1",
+        "mongoose": "^5.9.21"
+    },
+    "devDependencies": {
+        "nodemon": "^2.0.4"
+    }
+}
