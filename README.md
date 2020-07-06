@@ -1,5 +1,5 @@
 # URLshortner
-Create a url shortner using Node.js Express and MongoDB\
+Application creates shortened urls and stores them into a mongodb database, clicks and information of url is stored within the database\
 Bootstrap used for styling\
 ## Install
 run 'npm i' and 'npm start' to run application
